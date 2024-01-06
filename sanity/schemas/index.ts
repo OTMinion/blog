@@ -1,6 +1,5 @@
 import project from "./project-schema";
-import menu from "./menu-schema";
 
-const schemas = [project, menu];
+const schemas = [project];
 
 export default schemas;
